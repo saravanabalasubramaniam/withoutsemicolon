@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Semicolon 
+class Semicolon 
 {
   public static void main(String[] args)
   {  
