@@ -1,0 +1,14 @@
+import java.io.*;
+import java.util.*;
+public class Semicolon 
+{
+  public static void main(String[] args)
+  {  
+	Scanner input=new Scanner(System.in);
+	String a=input.nextLine();
+	if(System.out.printf(a)== null)
+	{	 
+	}	  
+  }
+}
+
